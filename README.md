@@ -29,8 +29,8 @@ b. Which cities do we need to focus more on?
 a. Where do respondents prefer to purchase energy drinks? 
 
 b. What are the typical consumption situations for energy drinks among 
-
 respondents? 
+
 c. What factors influence respondents' purchase decisions, such as price range and 
 
 limited edition packaging? 
