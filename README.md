@@ -1,7 +1,7 @@
 # Food-Beverage-Industry-
 # Primary Insights (Sample Sections / Questions) 
 Note: These insights can be derived from the survey responses 
-## 1. Demographic Insights (examples) 
+## 1. Demographic Insights 
 a. Who prefers energy drink more?  (male/female/non-binary?)
 
 b. Which age group prefers energy drinks more?
