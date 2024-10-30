@@ -24,7 +24,6 @@ b. What are the typical consumption situations for energy drinks among
 respondents? 
 c. What factors influence respondents' purchase decisions, such as price range and 
 limited edition packaging? 
-## 
-7. Product Development 
+## 7. Product Development 
 a. Which area of business should we focus more on our product development? 
 (Branding/taste/availability) 
